@@ -1,0 +1,32 @@
+#btn{
+    background-color: #498d4b; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+
+#btn:hover {
+    background-color: #054908; /* Green */
+    color: white;
+  }
+
+#products{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+}
+#pimg{
+    width: 150px;
+    height: 150px;
+}
+#pimg img{
+    max-width: 100%;
+    max-height: 100%;
+}

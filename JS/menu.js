@@ -1,0 +1,1 @@
+var menu = [ "home","About","services"]
